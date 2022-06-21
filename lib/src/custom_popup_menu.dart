@@ -15,10 +15,8 @@ export 'menu_config.dart';
 export 'menu_item.dart';
 
 enum MenuType {
-  /// 格子
   grid,
 
-  /// 单列
   list
 }
 
